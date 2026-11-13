@@ -1,0 +1,6 @@
+{
+  "name": "AI Assignment Studio",
+  "description": "Upload question papers in PDF, JPG, PNG, or DOCX, generate structured Hindi & English answers with Gemini, and export handwriting-style A4 notebooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
